@@ -1,3 +1,4 @@
+<img src="https://github.com/myselfabk5/myselfabk5/blob/main/github_banner.png" alt="logo" width="1500" height="250">
 <h1 align="center">Hi, I'm Abhishek Kumar</h1>
 <h3 align="center">A budding data scientist from India</h3>
 
