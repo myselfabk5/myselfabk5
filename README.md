@@ -7,7 +7,7 @@
 <!-- commenting below one line that shows trophy details -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myselfabk5" alt="myselfabk5" /></a> </p> -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/myselfabk5/myselfabk5](https://github.com/myselfabk5/myselfabk5)
+- 👨‍💻 All of my projects are available at [https://github.com/myselfabk5/myselfabk5](https://github.com/myselfabk5)
 
 - 💬 Ask me about **Python, R, Data Science, Machine Learning, and Econometrics**
 
