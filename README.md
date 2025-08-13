@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [projects](https://github.com/myselfabk5?tab=repositories)
 
-- 💬 Ask me about **Python, R, Data Science, Machine Learning, Deep Learning, Generative AI, Finance, Economics and Econometrics**
+- 💬 Ask me about **Python, R, Data Science, Machine Learning, Deep Learning, Generative AI, Retail, Finance, Economics and Econometrics**
 
 - 📫 How to reach me **myselfabk5@gmail.com**
 
